@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chethanapotukanam" alt="chethanapotukanam" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/7466903-Hello-Dribbble?utm_source=pinterest" />
 
 - 🌱 I’m currently learning **NextJS, Django, FastAPI, Deep Learning**
 
