@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chethanapotukanam" alt="chethanapotukanam" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=girl%20coder%20cute%20and%20professional%20cartoon&imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-vector%2F20240506%2Fourmid%2Fpngtree-cute-cartoon-girl-doing-office-work-on-transparent-background-png-image_12375933.png&imgrefurl=https%3A%2F%2Fpngtree.com%2Fso%2Ffemale-programmer&docid=SyR0XFETtQTabM&tbnid=WMTQeF4_AgfVhM&vet=12ahUKEwjl2OXz5KqMAxVoa_UHHT8PLVcQM3oECEUQAA..i&w=360&h=360&hcb=2&ved=2ahUKEwjl2OXz5KqMAxVoa_UHHT8PLVcQM3oECEUQAA" />
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🌱 I’m currently learning **NextJS, Django, FastAPI, Deep Learning**
 
