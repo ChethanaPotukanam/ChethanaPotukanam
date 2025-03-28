@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chethanapotukanam&label=Profile%20views&color=0e75b6&style=flat" alt="chethanapotukanam" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/70def3a9-1d9b-4d53-8de3-9e2d45764035" />
+<img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/54fb7eef-b1e8-41dc-be97-57e4180b3b24" />
 
 - 🌱 I’m currently learning **NextJS, Django, FastAPI, Deep Learning**
 
